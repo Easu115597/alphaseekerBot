@@ -98,7 +98,7 @@ AlphaSeeker是一个AI驱动的加密货币交易信号系统，集成了机器�
 1. **克隆项目**
 ```bash
 git clone <repository-url>
-cd alphaseekerBot
+cd alphaseeker
 ```
 
 2. **安装依赖**
